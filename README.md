@@ -1,7 +1,7 @@
 # Perfect Numbers
 
 ## perfect_numbers.py
-Finds perfect numbers up to 1000 (or less).
+Finds perfect numbers in range from 0 to 1000 (or less).
 
 I wrote this code before I found a mathematical formula to compute perfect numbers, so it is comparatively long and inefficient.
 
